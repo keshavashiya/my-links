@@ -1,57 +1,42 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Keshav Ashiya",
+  "description": "Software Engineer, JavaScript, Linux, React JS, React Native, Node JS, Deno and open source software enthusiast. On and ever upward. @keshavashiya",
+  "image_url": "https://pbs.twimg.com/profile_images/1296671028240777216/-gKg4gmh_400x400.jpg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "http://bit.ly/keshavashiya_linkedin",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "http://https://bit.ly/keshavashiya_github",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "http://https://bit.ly/keshavashiya_twitter",
       "icon": "twitter"
     },
     {
       "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
+      "url": "http://https://bit.ly/keshavashiya_bmac",
       "icon": "mug"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "http://https://bit.ly/keshavashiya_ig",
       "icon": "instagram"
     },
     {
       "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
+      "url": "http://https://bit.ly/keshavashiya_medium",
       "icon": "medium"
     },
     {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
+      "title": "Terminal Portfolio",
+      "url": "http://https://bit.ly/keshavashiya_webapp",
       "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
     }
   ]
 }
